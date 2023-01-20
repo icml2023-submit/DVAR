@@ -1,0 +1,10 @@
+tensorboard
+accelerate==0.13.2
+-e git+https://github.com/openai/CLIP.git@main#egg=clip
+diffusers==0.7.2
+tokenizers==0.13.1
+torch==1.12.1
+torchvision==0.13.1
+transformers==4.24.0
+wandb
+lpips==0.1.4
